@@ -1,5 +1,7 @@
 I am not a financial advisor. Please conduct your own research before making investment decisions.
 
+The problem of predicting stock prices based on previous prices has already been (unsuccesfully) tried many times. This project is more my personal practice in creating different machine learning models and designing automated tests rather than a serious attempt at predicting stock prices.
+
 # Stock Price Predictor
 
 This program attempts to train a machine learning model using past stock price data to predict future prices.
